@@ -28,7 +28,7 @@ html, body {
     font-size: 500%;
     text-transform: uppercase;
     text-shadow: 1px 1px 15px #000;
-    padding-bottom: 1rem;
+    
 }
 .carousel-caption h3 {
     font-size: 200%
@@ -163,7 +163,7 @@ hr.light-100 {
     top: 40%
 }
 .carousel-caption h1 {
-    font-size: 250%;
+    font-size: 150%;
 }
 .carousel-caption h3 {
     font-size: 110%;   
